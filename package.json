@@ -1,0 +1,21 @@
+{
+  "name": "mongo-pusub",
+  "version": "1.0.0",
+  "description": "a publish and subscribe system for listen over TCP socket for changes in MongoDB database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "pub",
+    "sub",
+    "publish",
+    "subscribe",
+    "socket",
+    "tcp",
+    "mongodb"
+  ],
+  "author": "Mauro Junior",
+  "license": "MIT"
+}
