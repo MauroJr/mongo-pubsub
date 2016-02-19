@@ -17,5 +17,9 @@
     "mongodb"
   ],
   "author": "Mauro Junior",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.2",
+    "tofactory": "^1.0.3"
+  }
 }
