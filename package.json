@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "axon": "^2.0.2",
+    "create-emitter": "^1.0.0",
     "tofactory": "^1.1.0"
   }
 }
