@@ -1,10 +1,14 @@
 {
   "name": "mongo-pubsub",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "a publish and subscribe system for listen over TCP socket for changes in MongoDB database.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauroJr/mongo-pubsub.git"
   },
   "keywords": [
     "mongo",
@@ -18,10 +22,13 @@
   ],
   "author": "Mauro Junior",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauroJr/mongo-pubsub/issues"
+  },
+  "homepage": "https://github.com/MauroJr/mongo-pubsub#readme",
   "dependencies": {
     "axon": "^2.0.2",
     "create-emitter": "^1.0.0",
-    "mongo-observer": "^1.0.0",
     "tofactory": "^1.1.0"
   }
 }
