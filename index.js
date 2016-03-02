@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-    publisher: require('./lib/publisher'),
-    subscriber: require('./lib/subscriber')
+    Publisher: require('./lib/publisher'),
+    Subscriber: require('./lib/subscriber')
 };
