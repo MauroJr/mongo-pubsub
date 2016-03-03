@@ -1,6 +1,6 @@
 {
   "name": "mongo-pubsub",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "a publish and subscribe system for listen over TCP socket for changes in MongoDB database.",
   "main": "index.js",
   "scripts": {
