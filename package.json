@@ -16,6 +16,7 @@
     "sub",
     "publish",
     "subscribe",
+    "oplog",
     "socket",
     "tcp",
     "mongodb"
