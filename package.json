@@ -30,7 +30,7 @@
     "axon": "^2.0.2",
     "create-emitter": "^1.0.0",
     "debug": "^2.2.0",
-    "mongo-observer": "^1.1.1",
+    "mongo-observer": "^1.2.0",
     "tofactory": "^1.1.0"
   }
 }
